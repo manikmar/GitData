@@ -1,3 +1,30 @@
+Repository Crating Steps::
+    Step 1: Enter into the browser (Google or edge ...)
+        1.a: Open the GitHub page and login with GMail username and password
+    Step 2: Now you are enter into the GitHub page, here create one repository.
+    Step 3: In your computer (Local), enter into the one Diver like C, D, ....
+        3.a: create one folder ex:DATA
+        3.b: crate on file ex: test.txt
+        3.c: add some statements in test.txt file.
+    Step 4: Open the CMD command promt
+        4.a: type below command
+            git init
+            and click "Enter" button.
+    Step 5: use belo commands
+
+    git statu
+    git add .
+    git commit -m "type comments"
+    git push -u origin master
+
+    next time onwords use below commands for any commit
+
+    git add .
+    git commit -m "type comments"
+    git push 
+
+
+
 1.After repo crated::
 -------------------
     git remote add origin https://github.com/manikmar/GitData.git
