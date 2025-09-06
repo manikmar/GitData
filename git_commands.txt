@@ -8,4 +8,5 @@
 -----------------------------
 3.clone the project
     git clone https://github.com/manikmar/GitData.git
+for clone project
 -------------------------------------------------------
