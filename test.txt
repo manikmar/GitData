@@ -1,0 +1,10 @@
+this file for "-u"
+
+it's telling that commit your code into your repository by using
+
+git push -u origin master
+
+here origin master is the common for every commit 
+it will use the same url of your repository
+
+if you use "-u" in git command, next time onwards you can use just "git push" command only.
