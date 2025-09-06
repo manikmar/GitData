@@ -1,0 +1,7 @@
+After repo crated::
+-------------------
+git remote add origin https://github.com/manikmar/GitData.git
+git branch -M main
+git push -u origin main
+
+------------------------------------------
