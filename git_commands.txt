@@ -2,5 +2,7 @@ After repo crated::
 -------------------
 git remote add origin https://github.com/manikmar/GitData.git
 git push origin master
-
 ------------------------------------------
+
+Take updates from repository::
+git pull origin master
